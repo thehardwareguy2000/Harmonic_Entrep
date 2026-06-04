@@ -47,6 +47,10 @@ python classification_analysis.py
 
 Generated outputs, figures, and statistical results will be stored in the `results/` directory.
 
+## Harmonic_chapter.pdf 
+
+This pdf is the Harmonic Textbook used for the survey.
+
 ## Dataset
 
 The repository includes the survey dataset used in the study, containing:
@@ -56,17 +60,3 @@ The repository includes the survey dataset used in the study, containing:
 - Open-ended responses
 - Response timing information
 
-## Citation
-
-```bibtex
-@inproceedings{harmonic2026,
-  title={Assessing Harmonic Entrepreneurship Through Survey Analytics},
-  author={Mehta, Het and Collaborators},
-  booktitle={Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)},
-  year={2026}
-}
-```
-
-## License
-
-This repository is intended for academic and research purposes.
