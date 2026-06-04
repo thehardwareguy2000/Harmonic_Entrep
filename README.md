@@ -15,7 +15,7 @@ Harmonic_Entrep/
 │   ├── classifiacation_methodology.py
 │   └── classification_analysis.py
 ├── results/
-└── Chapter 4 Harmonic.pdf
+└── Harmonic_chapter.pdf
 ```
 
 ## Main Components
