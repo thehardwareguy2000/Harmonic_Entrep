@@ -1,0 +1,188 @@
+CASE,Question,Char_length,Word_count,Unique_words,TTR,Has_bullets,Has_citations,Avg_word_len,HE_index,Gender,Age
+47,Innovate a craft,2393,329,211,0.641,1,0,6.28,3.9,Female,Under 30
+48,Innovate a craft,2020,279,201,0.72,1,1,6.24,1.6,Male,Under 30
+49,Innovate a craft,1564,221,167,0.756,1,0,6.05,2.7,Male,Under 30
+50,Innovate a craft,617,83,73,0.88,0,0,6.45,3.85,Male,Under 30
+51,Innovate a craft,793,104,86,0.827,0,0,6.56,3.15,Male,Under 30
+53,Innovate a craft,2962,411,261,0.635,1,0,6.18,3.4,Female,Under 30
+54,Innovate a craft,721,98,81,0.827,0,0,6.32,3.0,Male,30+
+55,Innovate a craft,1024,150,116,0.773,0,0,5.83,3.7,Female,Under 30
+56,Innovate a craft,1954,284,203,0.715,1,0,5.87,3.9,Female,30+
+57,Innovate a craft,4537,660,386,0.585,0,0,5.87,3.6,Female,30+
+58,Innovate a craft,481,64,51,0.797,1,0,6.52,3.65,Male,30+
+59,Innovate a craft,397,52,50,0.962,0,0,6.65,3.2,Male,Under 30
+60,Innovate a craft,702,80,68,0.85,1,0,7.79,3.6,Female,Under 30
+61,Innovate a craft,2275,326,222,0.681,0,0,5.98,3.55,Male,Under 30
+62,Innovate a craft,455,63,56,0.889,0,0,6.24,2.9,Female,Under 30
+63,Innovate a craft,3191,441,284,0.644,1,0,6.24,2.15,Male,Under 30
+64,Innovate a craft,803,114,92,0.807,1,0,6.05,3.7,Female,Under 30
+65,Innovate a craft,1522,205,149,0.727,0,0,6.43,2.9,Male,30+
+66,Innovate a craft,3351,466,298,0.639,1,0,6.1,2.65,Male,Under 30
+68,Innovate a craft,483,65,57,0.877,0,0,6.45,3.15,Female,Under 30
+69,Innovate a craft,392,58,47,0.81,0,0,5.78,3.5,Male,Under 30
+70,Innovate a craft,1796,246,163,0.663,1,0,6.3,3.55,Female,Under 30
+71,Innovate a craft,828,117,96,0.821,0,0,6.09,3.75,Female,30+
+72,Innovate a craft,3186,456,292,0.64,1,1,5.96,2.95,Male,Under 30
+74,Innovate a craft,1235,162,122,0.753,1,0,6.62,3.15,Female,Under 30
+75,Innovate a craft,1060,150,107,0.713,0,0,6.07,3.5,Male,Under 30
+77,Innovate a craft,640,88,70,0.795,1,0,6.28,2.55,Male,Under 30
+78,Innovate a craft,1148,168,115,0.685,0,0,5.83,3.15,Male,30+
+79,Innovate a craft,74,11,11,1.0,0,0,5.82,3.85,Female,Under 30
+80,Innovate a craft,251,35,32,0.914,0,0,6.2,2.3,Male,30+
+82,Innovate a craft,793,106,89,0.84,0,0,6.48,2.3,Male,Under 30
+85,Innovate a craft,63,1,1,1.0,0,0,63.0,2.75,Female,Under 30
+87,Innovate a craft,2846,398,249,0.626,1,0,6.07,2.95,Male,30+
+47,Elements of territory,2042,286,193,0.675,1,0,6.14,3.9,Female,Under 30
+48,Elements of territory,2427,344,230,0.669,1,1,6.06,1.6,Male,Under 30
+49,Elements of territory,2562,358,208,0.581,0,0,6.14,2.7,Male,Under 30
+50,Elements of territory,278,42,39,0.929,0,0,5.64,3.85,Male,Under 30
+51,Elements of territory,715,102,83,0.814,0,0,5.95,3.15,Male,Under 30
+53,Elements of territory,1994,283,181,0.64,1,0,6.03,3.4,Female,Under 30
+54,Elements of territory,566,86,67,0.779,0,0,5.55,3.0,Male,30+
+55,Elements of territory,957,130,107,0.823,0,0,6.37,3.7,Female,Under 30
+56,Elements of territory,2010,305,212,0.695,0,0,5.59,3.9,Female,30+
+57,Elements of territory,3196,425,273,0.642,0,0,6.51,3.6,Female,30+
+58,Elements of territory,178,27,21,0.778,1,0,5.63,3.65,Male,30+
+59,Elements of territory,79,1,1,1.0,0,0,79.0,3.2,Male,Under 30
+60,Elements of territory,924,117,96,0.821,1,0,6.9,3.6,Female,Under 30
+61,Elements of territory,1844,261,179,0.686,0,0,6.07,3.55,Male,Under 30
+62,Elements of territory,771,106,89,0.84,0,0,6.27,2.9,Female,Under 30
+63,Elements of territory,1676,244,158,0.648,1,0,5.87,2.15,Male,Under 30
+64,Elements of territory,251,38,34,0.895,0,0,5.63,3.7,Female,Under 30
+65,Elements of territory,959,134,105,0.784,0,0,6.16,2.9,Male,30+
+66,Elements of territory,2242,313,199,0.636,0,0,6.06,2.65,Male,Under 30
+68,Elements of territory,534,78,62,0.795,0,0,5.85,3.15,Female,Under 30
+69,Elements of territory,255,39,36,0.923,0,0,5.56,3.5,Male,Under 30
+70,Elements of territory,348,51,39,0.765,1,0,5.84,3.55,Female,Under 30
+71,Elements of territory,735,108,91,0.843,0,0,5.81,3.75,Female,30+
+72,Elements of territory,2794,393,244,0.621,1,1,6.06,2.95,Male,Under 30
+74,Elements of territory,1181,152,121,0.796,1,0,6.76,3.15,Female,Under 30
+75,Elements of territory,444,62,46,0.742,0,0,6.18,3.5,Male,Under 30
+77,Elements of territory,451,70,60,0.857,1,0,5.46,2.55,Male,Under 30
+78,Elements of territory,925,123,101,0.821,0,0,6.52,3.15,Male,30+
+79,Elements of territory,48,5,5,1.0,0,0,8.8,3.85,Female,Under 30
+80,Elements of territory,298,43,38,0.884,0,0,5.95,2.3,Male,30+
+82,Elements of territory,666,83,72,0.867,0,0,7.02,2.3,Male,Under 30
+85,Elements of territory,33,1,1,1.0,0,0,33.0,2.75,Female,Under 30
+87,Elements of territory,1930,269,188,0.699,1,0,6.16,2.95,Male,30+
+47,Customer value,2427,352,222,0.631,1,0,5.9,3.9,Female,Under 30
+48,Customer value,2342,338,219,0.648,1,1,5.93,1.6,Male,Under 30
+49,Customer value,1707,257,169,0.658,1,0,5.64,2.7,Male,Under 30
+50,Customer value,334,57,51,0.895,0,0,4.88,3.85,Male,Under 30
+51,Customer value,732,107,80,0.748,0,0,5.79,3.15,Male,Under 30
+54,Customer value,361,52,43,0.827,0,0,5.92,3.0,Male,30+
+55,Customer value,1011,141,106,0.752,0,0,6.18,3.7,Female,Under 30
+56,Customer value,2428,368,244,0.663,0,0,5.6,3.9,Female,30+
+57,Customer value,4035,560,284,0.507,0,0,6.21,3.6,Female,30+
+58,Customer value,305,43,37,0.86,1,0,6.05,3.65,Male,30+
+59,Customer value,387,60,52,0.867,0,0,5.47,3.2,Male,Under 30
+60,Customer value,863,115,98,0.852,0,0,6.51,3.6,Female,Under 30
+62,Customer value,629,92,68,0.739,0,0,5.85,2.9,Female,Under 30
+63,Customer value,2536,380,233,0.613,1,0,5.68,2.15,Male,Under 30
+64,Customer value,983,142,105,0.739,0,0,5.93,3.7,Female,Under 30
+65,Customer value,1035,150,108,0.72,0,0,5.91,2.9,Male,30+
+66,Customer value,1994,275,191,0.695,0,0,6.23,2.65,Male,Under 30
+68,Customer value,372,50,43,0.86,0,0,6.46,3.15,Female,Under 30
+69,Customer value,300,50,41,0.82,0,0,5.02,3.5,Male,Under 30
+70,Customer value,219,33,30,0.909,1,0,5.67,3.55,Female,Under 30
+71,Customer value,741,109,84,0.771,0,0,5.81,3.75,Female,30+
+72,Customer value,3014,447,271,0.606,1,1,5.73,2.95,Male,Under 30
+74,Customer value,483,73,64,0.877,0,0,5.63,3.15,Female,Under 30
+75,Customer value,461,67,55,0.821,0,0,5.9,3.5,Male,Under 30
+77,Customer value,388,57,46,0.807,1,0,5.82,2.55,Male,Under 30
+78,Customer value,2344,347,199,0.573,0,0,5.75,3.15,Male,30+
+79,Customer value,89,11,10,0.909,0,0,7.18,3.85,Female,Under 30
+80,Customer value,296,40,34,0.85,0,0,6.42,2.3,Male,30+
+82,Customer value,697,92,69,0.75,0,0,6.57,2.3,Male,Under 30
+85,Customer value,92,1,1,1.0,0,0,92.0,2.75,Female,Under 30
+87,Customer value,2957,432,259,0.6,1,0,5.83,2.95,Male,30+
+47,Sustainability,2525,337,223,0.662,1,0,6.5,3.9,Female,Under 30
+48,Sustainability,2484,360,233,0.647,1,1,5.9,1.6,Male,Under 30
+49,Sustainability,2617,372,249,0.669,0,0,6.0,2.7,Male,Under 30
+50,Sustainability,353,54,50,0.926,0,0,5.56,3.85,Male,Under 30
+51,Sustainability,638,86,69,0.802,0,0,6.35,3.15,Male,Under 30
+54,Sustainability,343,52,46,0.885,0,0,5.58,3.0,Male,30+
+55,Sustainability,789,111,88,0.793,0,0,6.12,3.7,Female,Under 30
+56,Sustainability,2725,405,260,0.642,1,0,5.73,3.9,Female,30+
+57,Sustainability,2397,312,198,0.635,1,0,6.64,3.6,Female,30+
+58,Sustainability,190,27,23,0.852,1,0,6.07,3.65,Male,30+
+59,Sustainability,877,132,97,0.735,0,0,5.65,3.2,Male,Under 30
+60,Sustainability,586,71,61,0.859,0,0,7.27,3.6,Female,Under 30
+62,Sustainability,1437,199,133,0.668,0,0,6.23,2.9,Female,Under 30
+63,Sustainability,2358,333,225,0.676,1,0,6.08,2.15,Male,Under 30
+64,Sustainability,821,110,87,0.791,0,0,6.47,3.7,Female,Under 30
+65,Sustainability,872,120,96,0.8,0,0,6.28,2.9,Male,30+
+66,Sustainability,2422,333,224,0.673,1,0,6.27,2.65,Male,Under 30
+68,Sustainability,285,40,38,0.95,0,0,6.15,3.15,Female,Under 30
+69,Sustainability,303,51,46,0.902,0,0,4.96,3.5,Male,Under 30
+70,Sustainability,450,72,60,0.833,0,0,5.26,3.55,Female,Under 30
+71,Sustainability,664,90,76,0.844,0,0,6.39,3.75,Female,30+
+72,Sustainability,2982,421,275,0.653,1,1,6.07,2.95,Male,Under 30
+74,Sustainability,1285,176,139,0.79,1,0,6.3,3.15,Female,Under 30
+75,Sustainability,450,64,51,0.797,0,0,6.05,3.5,Male,Under 30
+77,Sustainability,448,61,56,0.918,0,0,6.36,2.55,Male,Under 30
+78,Sustainability,1513,251,166,0.661,1,0,5.03,3.15,Male,30+
+79,Sustainability,73,8,8,1.0,0,0,8.25,3.85,Female,Under 30
+80,Sustainability,270,35,32,0.914,0,0,6.74,2.3,Male,30+
+82,Sustainability,717,88,78,0.886,0,0,7.14,2.3,Male,Under 30
+85,Sustainability,70,1,1,1.0,0,0,70.0,2.75,Female,Under 30
+87,Sustainability,2977,404,255,0.631,1,0,6.36,2.95,Male,30+
+47,2030 Agenda,1878,253,187,0.739,1,0,6.43,3.9,Female,Under 30
+48,2030 Agenda,2233,321,211,0.657,1,1,5.96,1.6,Male,Under 30
+49,2030 Agenda,371,56,47,0.839,0,0,5.64,2.7,Male,Under 30
+50,2030 Agenda,349,52,45,0.865,0,0,5.73,3.85,Male,Under 30
+51,2030 Agenda,674,93,76,0.817,0,0,6.18,3.15,Male,Under 30
+54,2030 Agenda,403,58,47,0.81,0,0,5.91,3.0,Male,30+
+55,2030 Agenda,1406,190,139,0.732,0,0,6.41,3.7,Female,Under 30
+56,2030 Agenda,2265,337,229,0.68,1,0,5.72,3.9,Female,30+
+57,2030 Agenda,1320,187,139,0.743,0,0,6.05,3.6,Female,30+
+58,2030 Agenda,168,23,21,0.913,1,0,6.3,3.65,Male,30+
+59,2030 Agenda,507,65,46,0.708,0,0,6.82,3.2,Male,Under 30
+60,2030 Agenda,461,53,45,0.849,0,0,7.7,3.6,Female,Under 30
+62,2030 Agenda,116,17,16,0.941,0,0,5.88,2.9,Female,Under 30
+63,2030 Agenda,2397,323,225,0.697,1,0,6.42,2.15,Male,Under 30
+64,2030 Agenda,359,53,45,0.849,0,0,5.79,3.7,Female,Under 30
+65,2030 Agenda,900,118,95,0.805,0,0,6.64,2.9,Male,30+
+66,2030 Agenda,1607,217,155,0.714,0,0,6.39,2.65,Male,Under 30
+68,2030 Agenda,129,16,15,0.938,0,0,7.12,3.15,Female,Under 30
+69,2030 Agenda,246,34,32,0.941,0,0,6.26,3.5,Male,Under 30
+70,2030 Agenda,96,15,13,0.867,0,0,5.47,3.55,Female,Under 30
+71,2030 Agenda,717,97,80,0.825,0,0,6.4,3.75,Female,30+
+72,2030 Agenda,2485,356,241,0.677,1,1,5.94,2.95,Male,Under 30
+74,2030 Agenda,523,78,67,0.859,1,0,5.72,3.15,Female,Under 30
+75,2030 Agenda,280,37,32,0.865,0,0,6.59,3.5,Male,Under 30
+78,2030 Agenda,969,150,118,0.787,0,0,5.47,3.15,Male,30+
+79,2030 Agenda,21,2,2,1.0,0,0,10.0,3.85,Female,Under 30
+80,2030 Agenda,162,19,17,0.895,0,0,7.58,2.3,Male,30+
+82,2030 Agenda,643,80,67,0.838,0,0,7.02,2.3,Male,Under 30
+85,2030 Agenda,84,1,1,1.0,0,0,84.0,2.75,Female,Under 30
+87,2030 Agenda,2312,330,219,0.664,1,0,5.99,2.95,Male,30+
+47,Local economy impact,2384,327,220,0.673,1,0,6.29,3.9,Female,Under 30
+48,Local economy impact,3121,444,290,0.653,1,1,6.03,1.6,Male,Under 30
+49,Local economy impact,411,60,54,0.9,0,0,5.87,2.7,Male,Under 30
+50,Local economy impact,350,56,49,0.875,0,0,5.27,3.85,Male,Under 30
+51,Local economy impact,619,85,73,0.859,0,0,6.22,3.15,Male,Under 30
+54,Local economy impact,476,65,50,0.769,0,0,6.29,3.0,Male,30+
+55,Local economy impact,1113,153,112,0.732,0,0,6.28,3.7,Female,Under 30
+56,Local economy impact,2489,364,250,0.687,1,0,5.84,3.9,Female,30+
+57,Local economy impact,4699,650,376,0.578,0,0,6.23,3.6,Female,30+
+58,Local economy impact,316,38,31,0.816,1,0,7.26,3.65,Male,30+
+59,Local economy impact,728,99,83,0.838,0,0,6.36,3.2,Male,Under 30
+60,Local economy impact,353,46,40,0.87,0,0,6.7,3.6,Female,Under 30
+62,Local economy impact,639,93,73,0.785,0,0,5.88,2.9,Female,Under 30
+63,Local economy impact,2587,354,235,0.664,1,0,6.31,2.15,Male,Under 30
+64,Local economy impact,385,55,47,0.855,0,0,6.02,3.7,Female,Under 30
+65,Local economy impact,789,108,88,0.815,0,0,6.31,2.9,Male,30+
+66,Local economy impact,2519,340,234,0.688,0,0,6.41,2.65,Male,Under 30
+68,Local economy impact,365,54,47,0.87,0,0,5.78,3.15,Female,Under 30
+69,Local economy impact,218,28,26,0.929,0,0,6.82,3.5,Male,Under 30
+71,Local economy impact,817,110,94,0.855,0,0,6.44,3.75,Female,30+
+72,Local economy impact,2868,399,268,0.672,1,1,6.14,2.95,Male,Under 30
+74,Local economy impact,1631,229,156,0.681,1,0,6.13,3.15,Female,Under 30
+75,Local economy impact,243,37,32,0.865,0,0,5.59,3.5,Male,Under 30
+78,Local economy impact,732,99,85,0.859,0,0,6.4,3.15,Male,30+
+79,Local economy impact,37,4,4,1.0,0,0,8.5,3.85,Female,Under 30
+80,Local economy impact,259,37,35,0.946,0,0,6.03,2.3,Male,30+
+82,Local economy impact,624,79,69,0.873,0,0,6.89,2.3,Male,Under 30
+85,Local economy impact,237,1,1,1.0,0,0,237.0,2.75,Female,Under 30
+87,Local economy impact,3026,427,273,0.639,1,0,6.07,2.95,Male,30+
