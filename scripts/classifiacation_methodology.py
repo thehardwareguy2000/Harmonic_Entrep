@@ -1,29 +1,4 @@
-"""
-Harmonic Entrepreneur Survey – Group Classification Methodology
-================================================================
-This script documents and executes EVERY STEP used to classify
-students into their learning method groups based on A7 open-text
-responses, starting from raw text and ending at group labels.
 
-LEARNING GROUPS:
-  1 = Knowledge Learning     → textbook only
-  2 = Information Extraction → NotebookLM (textbook as base)
-  3 = Knowledge Discovery    → web search engine (no AI)
-  4 = Interaction            → LLMs
-
-METHODOLOGY OVERVIEW:
-  Step 1  – Extract all A7 raw text responses per student
-  Step 2  – Define linguistic "fingerprints" for each group
-  Step 3  – Compute 12 measurable signals per student
-  Step 4  – Score each signal against each group's profile
-  Step 5  – Apply rule-based hard classifiers (URL, citation patterns)
-  Step 6  – Apply soft scoring for ambiguous cases
-  Step 7  – Assign final group + confidence level
-  Step 8  – Print per-student evidence table
-  Step 9  – Export classification results + visualise signal matrix
-
-pip install pandas numpy matplotlib seaborn openpyxl
-"""
 
 import warnings
 warnings.filterwarnings('ignore')

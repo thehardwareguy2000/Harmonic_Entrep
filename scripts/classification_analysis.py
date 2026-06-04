@@ -1,36 +1,4 @@
-"""
-Harmonic Entrepreneur Survey – Classification Analysis
-=======================================================
-This script takes the group assignments produced by
-classification_methodology.py (step7_final_classifications.csv)
-and runs the full comparative analysis across all four learning groups.
 
-Groups (as assigned by the methodology script):
-  1 = Knowledge Learning     (Textbook only)         n=14
-  2 = Information Extraction (NotebookLM)            n=13
-  3 = Knowledge Discovery    (Web Search)            n=5
-  4 = Interaction            (LLM)                  n=2
-
-Analyses performed:
-  Part 1  – Load classifications + Likert data, merge
-  Part 2  – Group profile table (section scores + text metrics)
-  Part 3  – Kruskal-Wallis tests across groups (Likert sections)
-  Part 4  – Pairwise Mann-Whitney post-hoc (Bonferroni corrected)
-  Part 5  – Text quality comparison across groups
-  Part 6  – Radar chart: HE profiles by group
-  Part 7  – Box plots: HE index & key sections by group
-  Part 8  – Text signal fingerprint chart by group
-  Part 9  – Confidence breakdown chart
-  Part 10 – Response time (TIME_SUM) by group
-  Part 11 – Item-level heat map: mean score per item per group
-  Part 12 – Export full labelled dataset
-
-Requirements:
-  pip install pandas numpy scipy matplotlib seaborn openpyxl
-  Files needed in same folder:
-    data_unical_2026-05-12_15-12.xlsx
-    step7_final_classifications.csv   (output of classification_methodology.py)
-"""
 
 import warnings
 warnings.filterwarnings('ignore')
